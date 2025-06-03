@@ -3,6 +3,10 @@
     padding-bottom: 0rem;
     background-color: #b0e4fc;
 }
+.container {
+    width: 100%;
+    overflow: hidden;
+}
 .btn {
     padding: 10px 30px;
     border-radius: 50px;
